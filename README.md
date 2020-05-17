@@ -10,15 +10,15 @@ Part 2
 Run PaperReviewDriver java class which contains all the five methods as mentioned in the assignment
 
 
-getPaperAuthorDetailsByAuthorId - This uses a select query to retrieve the paper and author details.
+1)getPaperAuthorDetailsByAuthorId - This uses a select query to retrieve the paper and author details.
 
 
-getReviewDetails - This shows the reviews which are recommended as "The paper should be read"
+2)getReviewDetails - This shows the reviews which are recommended as "The paper should be read"
 
 
-getCountOfSubmittedPaper - This uses a select count(*) to give the count of Submitted paper.
+3)getCountOfSubmittedPaper - This uses a select count(*) to give the count of Submitted paper.
 
-createNewPaperAndAuthorSubmission - This inserts a new author and paper. 
+4)createNewPaperAndAuthorSubmission - This inserts a new author and paper. 
 
 
-deleteAuthor - It deletes the first author.
+5)deleteAuthor - It deletes the first author.
